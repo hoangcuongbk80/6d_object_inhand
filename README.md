@@ -1,4 +1,4 @@
-## Installation
+### Installation
 numpy>=1.16.2 <br /> 
 torchvision <br />
 torch>=1.0.1.post2 <br />
@@ -53,5 +53,5 @@ sh sh/train_ho3d_test.sh
 sh sh/train_dex-ycb_test.sh
 ``` 
 
-## Qualitative Results.
+### Qualitative Results.
 ![](assets/result.png)
