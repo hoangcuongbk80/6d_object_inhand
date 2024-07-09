@@ -1,12 +1,12 @@
 ## Installation
 numpy>=1.16.2 <br /> 
-torchvision <br / >
-torch>=1.0.1.post2 <br / >
-chumpy <br / >
-trimesh <br / >
-pillow <br / >
-matplotlib <br / >
-opencv-python <br / >
+torchvision <br />
+torch>=1.0.1.post2 <br />
+chumpy <br />
+trimesh <br />
+pillow <br />
+matplotlib <br />
+opencv-python <br />
 
 ### Datasets  
 
@@ -54,4 +54,4 @@ sh sh/train_dex-ycb_test.sh
 ``` 
 
 ## Qualitative Results.
-![Results](assets/ex1.png)
+![](assets/ex1.png)
