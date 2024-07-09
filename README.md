@@ -1,12 +1,13 @@
 ## Installation
-- Clone this repository: 
-    ```Shell
-    git clone https://github.com/hoangcuongbk80/6d_object_inhand.git
-    ```
-- Install the dependencies by the following command:
-    ```Shell
-    pip install -r requirements.txt
-    ```
+numpy>=1.16.2
+torchvision
+torch>=1.0.1.post2
+chumpy
+trimesh
+pillow
+matplotlib
+opencv-python
+
 ### Datasets  
 
 * Download HO3D dataset [data](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/)
@@ -51,3 +52,6 @@ sh sh/train_ho3d_test.sh
 ```
 sh sh/train_dex-ycb_test.sh
 ``` 
+
+## Qualitative Results.
+![Results](assets/ex1.png)

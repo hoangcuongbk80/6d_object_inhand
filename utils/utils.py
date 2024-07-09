@@ -129,7 +129,7 @@ def save_checkpoint(state, checkpoint="checkpoint", filename="checkpoint.pth.tar
 def get_dataset(args, mode):
     from dataset.ho3d import HO3D
     dataset = HO3D(dataset_root=args.HO3D_root, obj_model_root=args.obj_model_root,
-                   train_label_root="/data1/zhifeng/ho3d-process", mode=mode, inp_res=args.inp_res)
+                   train_label_root="/data1/cuong/ho3d-process", mode=mode, inp_res=args.inp_res)
     return dataset
 
 def get_dex_ycb_dataset(args,mode):

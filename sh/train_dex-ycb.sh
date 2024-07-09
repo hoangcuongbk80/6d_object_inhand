@@ -1,7 +1,7 @@
         nohup\
-        python traineval.py --HO3D_root /data1/zhifeng/ho3d_v2 \
+        python traineval.py --HO3D_root /data1/cuong/ho3d_v2 \
         --host_folder  host_folder/dex-ycb \
-        --dex_ycb_root /data1/zhifeng/dex-ycb \
+        --dex_ycb_root /data1/cuong/dex-ycb \
         --epochs 40 \
         --inp_res 256 \
         --lr 1e-4 \
