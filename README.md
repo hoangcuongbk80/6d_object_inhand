@@ -1,12 +1,12 @@
 ## Installation
-numpy>=1.16.2
-torchvision
-torch>=1.0.1.post2
-chumpy
-trimesh
-pillow
-matplotlib
-opencv-python
+numpy>=1.16.2 < br / >
+torchvision < br / >
+torch>=1.0.1.post2 < br / >
+chumpy < br / >
+trimesh < br / >
+pillow < br / >
+matplotlib < br / >
+opencv-python < br / >
 
 ### Datasets  
 
