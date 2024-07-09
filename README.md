@@ -54,4 +54,4 @@ sh sh/train_dex-ycb_test.sh
 ``` 
 
 ## Qualitative Results.
-![](assets/ex1.png)
+![](https://github.com/hoangcuongbk80/6d_object_inhand/assets/results.png)
